@@ -1,0 +1,38 @@
+.container {
+position: relative;
+height: 300px;
+width: 300px;
+background-color: gray;
+}
+
+.vermelho {     
+    height: 100px;
+    width: 100px;
+    background-color: red; 
+    position: absolute;  
+    left: 200px;
+    position: relative;  
+    display: inline-block;
+}
+
+.azul {
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+    position: relative;
+    display: inline-block;
+    bottom: 300px;
+    
+  
+   
+}
+
+.laranja {
+   height: 100px; 
+   width: 100px;
+   background-color: orange;
+   position: relative;
+   display: inline-block;
+   bottom: 100px;
+  
+}
